@@ -1,52 +1,28 @@
-
 Global Seismic Trends Analysis
-Project Overview
-This project analyzes global earthquake data using the USGS Earthquake API.
 
-The project includes:
-
-Data Extraction using Python
-Data Cleaning and Preprocessing
-Feature Engineering
-MySQL Database Integration
-SQL Analysis
-Streamlit Dashboard Development
-Technologies Used
+An end-to-end Data Analytics project using:
 Python
 Pandas
-NumPy
 MySQL
-SQLAlchemy
+SQL
 Streamlit
 Plotly
-Seaborn
-Matplotlib
-Data Source
-USGS Earthquake API
 
-https://earthquake.usgs.gov
-
-Project Workflow
-Data Extraction
+Features
+Earthquake API Data Extraction
 Data Cleaning
 Feature Engineering
-Exploratory Data Analysis
-MySQL Database Loading
-SQL Query Analysis
-Streamlit Dashboard Creation
-Dashboard Features
-KPI Cards
-Magnitude Distribution
-Earthquake Trend Analysis
-Country-wise Filtering
-Depth Category Analysis
-Global Earthquake Map
-Tsunami Analysis
-Key Findings
-Most earthquakes occur between magnitude 4 and 5.
-Shallow earthquakes are the most common.
-Tsunami-triggering earthquakes are rare.
-Alaska, Indonesia, Japan and Chile show high seismic activity.
-Earthquakes above magnitude 7 are uncommon but highly impactful.
+SQL Analysis
+Interactive Dashboard
+
+Dashboard
+<img width="1243" height="294" alt="Dashboard Title_ KPI_Country Dropdown" src="https://github.com/user-attachments/assets/b1aec814-c52e-4c8f-8b37-b30ea2ae0cc6" />
+
+<img width="1232" height="402" alt="Magnitude_Histogram" src="https://github.com/user-attachments/assets/c4e1a222-42f7-4b0a-8a0a-ad64883c7244" />
+
+<img width="1232" height="402" alt="World_Map" src="https://github.com/user-attachments/assets/a6f49e35-ce4a-46ae-8fb7-bd7a6cab4e3f" />
+
 Author
 Ramprasad Ramaraj
+
+
